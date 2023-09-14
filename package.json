@@ -11,9 +11,6 @@
   "license": "MIT",
   "dependencies": {
     "@babel/parser": "^7.22.16",
-    "@babel/traverse": "^7.22.19",
-    "@babel/types": "^7.22.19",
-    "@types/node": "^20.6.0",
-    "typescript": "^5.2.2"
+    "@babel/traverse": "^7.22.19"
   }
 }
